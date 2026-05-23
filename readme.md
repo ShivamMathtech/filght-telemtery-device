@@ -1,4 +1,4 @@
-````md
+
 # RocketTelemetry
 
 Professional ESP32-Based Rocket Telemetry and Flight Computer System
