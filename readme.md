@@ -1,5 +1,5 @@
 ````md
-# 🚀 RocketTelemetry
+# RocketTelemetry
 
 Professional ESP32-Based Rocket Telemetry and Flight Computer System
 
@@ -7,7 +7,7 @@ Developed by Shivam Singh — Founder of MathTech
 
 ---
 
-# 📌 Overview
+#Overview
 
 RocketTelemetry is a professional-grade modular avionics firmware system designed for high-power model rockets using ESP32.
 
@@ -25,16 +25,16 @@ The system supports:
 
 ---
 
-# 🛰️ Features
+#  Features
 
-## 🔹 Real-Time Telemetry
+## Real-Time Telemetry
 
 - Long-range LoRa communication
 - Live telemetry transmission
 - Ground-station compatible
 - RSSI monitoring
 
-## 🔹 Flight Computer
+## Flight Computer
 
 - Launch detection
 - Flight-state machine
@@ -43,14 +43,14 @@ The system supports:
 - Altitude tracking
 - Velocity calculation
 
-## 🔹 Flight Logging
+## Flight Logging
 
 - CSV data logging
 - SD card storage
 - Timestamped telemetry
 - Blackbox-style recording
 
-## 🔹 Recovery System
+##Recovery System
 
 - Drogue deployment
 - Main parachute deployment
@@ -59,7 +59,7 @@ The system supports:
 
 ---
 
-# 🔧 Hardware Components
+# Hardware Components
 
 | Component      | Description             |
 | -------------- | ----------------------- |
@@ -75,7 +75,7 @@ The system supports:
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```text
 RocketTelemetry/
@@ -136,9 +136,9 @@ RocketTelemetry/
 
 ---
 
-# ⚡ Pin Configuration
+# Pin Configuration
 
-## LoRa SX1278
+##LoRa SX1278
 
 | SX1278 | ESP32  |
 | ------ | ------ |
@@ -151,7 +151,7 @@ RocketTelemetry/
 
 ---
 
-## GPS NEO-M8N
+##GPS NEO-M8N
 
 | GPS | ESP32  |
 | --- | ------ |
