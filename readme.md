@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-
 # RocketTelemetry
-=======
-# 🚀 RocketTelemetry
->>>>>>> ad5f2d9 (small change)
 
 Professional ESP32-Based Rocket Telemetry and Flight Computer System
 
@@ -29,7 +24,7 @@ The system supports:
 
 ---
 
-#  Features
+# Features
 
 ## Real-Time Telemetry
 
