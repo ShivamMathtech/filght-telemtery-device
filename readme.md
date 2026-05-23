@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 
 # RocketTelemetry
+=======
+# 🚀 RocketTelemetry
+>>>>>>> ad5f2d9 (small change)
 
 Professional ESP32-Based Rocket Telemetry and Flight Computer System
 
@@ -362,4 +366,3 @@ Founder — MathTech
 🚀 Innovating With Passion
 
 ---
-````
