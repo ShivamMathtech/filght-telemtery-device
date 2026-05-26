@@ -3,7 +3,7 @@
 Professional ESP32-Based Rocket Telemetry and Flight Computer System
 
 Developed by Shivam Singh — Founder of MathTech
-
+![image](thubnail.png)
 ---
 
 #Overview
